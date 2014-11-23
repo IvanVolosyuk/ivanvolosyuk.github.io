@@ -1,0 +1,3 @@
+[submodule "thecorevisualizer"]
+	path = thecorevisualizer
+	url = https://github.com/IvanVolosyuk/thecorevisualizer.git
