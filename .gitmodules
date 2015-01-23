@@ -1,3 +1,7 @@
 [submodule "thecorevisualizer"]
 	path = thecorevisualizer
 	url = https://github.com/IvanVolosyuk/thecorevisualizer.git
+[submodule "thecorevisualizer.v1"]
+	path = thecorevisualizer.v1
+	url = https://github.com/IvanVolosyuk/thecorevisualizer.git
+	branch = v1
